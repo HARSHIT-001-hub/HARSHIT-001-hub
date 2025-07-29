@@ -1,21 +1,84 @@
-# 💫 About Me: Engineer. Creator. Hacker. Bringing Ideas to Life with Code.
-🔭 I’m currently working on My Portfolio to showcase my engineering projects and creative works.<br>📫 You can reach me at htripathi9324@gmail.com
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-tripathi-2b0ab027b) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HarshitBhaiya001) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HARSHIT-001-hub&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HARSHIT-001-hub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT-001-hub&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HARSHIT-001-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">Hi 👋, I'm Harshit Tripathi</h1>
+<h3 align="center">Engineer • Creator • Developer • Lifelong Learner</h3>
+<p align="center">🚀 Bringing Ideas to Life through Code & Innovation</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HARSHIT-001-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+- 🎓 Engineering student passionate about technology, innovation, and problem-solving  
+- 💻 Currently building my **personal portfolio** to showcase engineering & creative projects  
+- 🔥 Love turning ideas into working solutions using full-stack and scripting technologies  
+- 📫 Reach me at **htripathi9324@gmail.com**  
+- ⚡ Fun fact: I believe in **"Code once. Reuse forever."**
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/harshit-tripathi-2b0ab027b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://youtube.com/@HarshitBhaiya001" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="mailto:htripathi9324@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+---
+
+### 🧰 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?&style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white" />
+</p>
+
+---
+
+### 🚧 Projects in Progress
+- 🔭 **Portfolio Website** – Modern, responsive, dark/light mode toggle  
+- 🤖 **J.A.R.V.I.S Virtual Assistant** – Python + Tkinter with voice recognition  
+- 📦 **E-Commerce Comparison Tool** – Real-time price & feature fetch from APIs  
+- 🏥 **Booking Management System** – Responsive healthcare appointment web app  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HARSHIT-001-hub&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARSHIT-001-hub&theme=tokyonight&hide_border=false" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT-001-hub&theme=tokyonight&hide_border=false&layout=compact" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repositories
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=HARSHIT-001-hub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+### 📈 Profile Visitors
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=HARSHIT-001-hub&label=Profile%20Views&color=0&icon=0&pretty=true" />
+  </a>
+</p>
+
+---
+
+### 🚀 Let's Build Together!
+If you have a project idea, collaboration request, or just want to say hi, feel free to reach out.  
+**Code. Collaborate. Create. Repeat.**
+
+<!-- Proudly crafted using GPRM (https://gprm.itsvg.in) -->
