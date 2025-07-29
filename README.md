@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Engineer. Creator. Hacker. Bringing Ideas to Life with Code.
 🔭 I’m currently working on My Portfolio to showcase my engineering projects and creative works.<br>📫 You can reach me at htripathi9324@gmail.com
 
 
