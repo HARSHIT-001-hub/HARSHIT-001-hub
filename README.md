@@ -68,11 +68,9 @@
 
 ---
 
-### 📈 Profile Visitors
+### 📈 Visitor Count
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=HARSHIT-001-hub&label=Profile%20Views&color=0&icon=0&pretty=true" />
-  </a>
+  <img src="https://profile-counter.glitch.me/HARSHIT-001-hub/count.svg" />
 </p>
 
 ---
