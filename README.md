@@ -65,9 +65,7 @@
 ---
 
 ### 📈 Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/HARSHIT-001-hub/count.svg" alt="Visitor Count" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=HARSHIT-001-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
