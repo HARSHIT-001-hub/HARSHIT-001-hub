@@ -1,54 +1,21 @@
-# Harshit Pramodkumar Tripathi 👨‍💻
+# 💫 About Me:
+🔭 I’m currently working on My Portfolio to showcase my engineering projects and creative works.<br>📫 You can reach me at htripathi9324@gmail.com
 
-### Engineer | Creator | Hacker | Building Ideas with Code
 
-[![Profile Views](https://komarev.com/ghpvc/?username=HARSHIT-001-hub&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/HARSHIT-001-hub)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-tripathi-2b0ab027b) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HarshitBhaiya001) 
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=HARSHIT-001-hub)](https://github.com/HARSHIT-001-hub)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HARSHIT-001-hub&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HARSHIT-001-hub&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT-001-hub&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-## About Me
-
-🔭 I’m currently working on **[My Portfolio](#)** to showcase my engineering projects and creative works.  
-📫 You can reach me at **[htripathi9324@gmail.com](mailto:htripathi9324@gmail.com)**
-
----
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Tripathi-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-tripathi-2b0ab027b/)
-[![YouTube](https://img.shields.io/badge/YouTube-Harshit%20Bhaiya%20001-red?logo=youtube&logoColor=white)](https://www.youtube.com/@harshitbhaiya001)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HARSHIT-001-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=HARSHIT-001-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Languages & Tools
-
-### 🛠️ Technologies I Use:
-- **Frontend**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Frameworks & Libraries**: ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-- **Backend**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-- **Tools**: ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
----
-
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=HARSHIT-001-hub&show_icons=true&locale=en&layout=compact&hide=html)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=HARSHIT-001-hub&)
-
----
-
-## Projects & Contributions
-
-Check out my repository to see the projects I've worked on:
-
-[🔗 GitHub Repositories](https://github.com/HARSHIT-001-hub)
-
----
-
-### "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-*Feel free to reach out if you're interested in collaborating on open-source projects or just want to chat about technology!*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
