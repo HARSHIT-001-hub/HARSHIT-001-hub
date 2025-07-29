@@ -70,7 +70,7 @@
 
 ### 📈 Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/HARSHIT-001-hub/count.svg" />
+  <img src="https://profile-counter.glitch.me/HARSHIT-001-hub/count.svg" alt="Visitor Count" />
 </p>
 
 ---
