@@ -53,10 +53,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=HARSHIT-001-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
-    <img src="https://github-readme-stats.vercel.app/api?username=HARSHIT-001-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  </a>
-  <br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HARSHIT-001-hub" alt="harshit-001-hub" /></a> </p>
   <img src="https://nirzak-streak-stats.vercel.app/?user=HARSHIT-001-hub&theme=dark&hide_border=false" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT-001-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
@@ -68,7 +65,7 @@
 ### 🔝 Top Contributed Repositories
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HARSHIT-001-hub" alt="harshit-001-hub" /></a> </p>
+
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=HARSHIT-001-hub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
