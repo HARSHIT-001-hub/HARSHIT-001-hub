@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Tripathi</h1>
 <h3 align="center">Engineer • Creator • Developer • Lifelong Learner</h3>
 <p align="center">🚀 Bringing Ideas to Life through Code & Innovation</p>
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=HARSHIT-001-hub&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-001-hub" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=HARSHIT-001-hub&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-001-hub" /> </p>
 
 ---
 
